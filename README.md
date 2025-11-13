@@ -4,4 +4,3 @@ DogeWare is a hacks/exploits library, full of hacks and exploits you are able to
 
 DogeWare is an official network of doge unblocker!
 Also use doge unblocker 😉 https://discord.gg/unblocking
-Credits: derpman - owner, ccryptic - developer, the people who own these hacks/exploits
